@@ -681,6 +681,13 @@
 		19E85DF9273D7D4F000CCFAE /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/Localizable.strings; sourceTree = "<group>"; };
 		19E85DFA273D7D4F000CCFAE /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/Localizable.strings; sourceTree = "<group>"; };
 		19E85DFB273D7D4F000CCFAE /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/Localizable.strings; sourceTree = "<group>"; };
+		19E85DFE273E51BD000CCFAE /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/Main.strings; sourceTree = "<group>"; };
+		19E85DFF273E51BD000CCFAE /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/CarbKit.strings; sourceTree = "<group>"; };
+		19E85E00273E51BD000CCFAE /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/InsulinKit.strings; sourceTree = "<group>"; };
+		19E85E01273E51D7000CCFAE /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/Localizable.strings; sourceTree = "<group>"; };
+		19E85E02273E51DC000CCFAE /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/Localizable.strings; sourceTree = "<group>"; };
+		19E85E03273E5207000CCFAE /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/Localizable.strings; sourceTree = "<group>"; };
+		19E85E04273E5216000CCFAE /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/Localizable.strings; sourceTree = "<group>"; };
 		1F50C321212B20D300C18FAB /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/CarbKit.strings; sourceTree = "<group>"; };
 		1F50C322212B20D300C18FAB /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/InsulinKit.strings; sourceTree = "<group>"; };
 		1F50C324212B20D300C18FAB /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -2235,6 +2242,7 @@
 				ro,
 				ar,
 				uk,
+				he,
 			);
 			mainGroup = 43D8FDC11C728FDF0073BE78;
 			productRefGroup = 43D8FDCC1C728FDF0073BE78 /* Products */;
@@ -2984,6 +2992,7 @@
 				7D9BF14A2337133E005DCFD6 /* ro */,
 				19E85DF0273D7D00000CCFAE /* ar */,
 				19E85DF8273D7D4F000CCFAE /* uk */,
+				19E85E01273E51D7000CCFAE /* he */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -2994,6 +3003,7 @@
 				430158001C7EC03B00B64B63 /* Base */,
 				19E85DED273D7D00000CCFAE /* ar */,
 				19E85DF5273D7D4F000CCFAE /* uk */,
+				19E85DFE273E51BD000CCFAE /* he */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -3031,6 +3041,7 @@
 				7D9BF1482337133E005DCFD6 /* ro */,
 				19E85DEE273D7D00000CCFAE /* ar */,
 				19E85DF6273D7D4F000CCFAE /* uk */,
+				19E85DFF273E51BD000CCFAE /* he */,
 			);
 			name = CarbKit.storyboard;
 			sourceTree = "<group>";
@@ -3058,6 +3069,7 @@
 				7D9BF1492337133E005DCFD6 /* ro */,
 				19E85DEF273D7D00000CCFAE /* ar */,
 				19E85DF7273D7D4F000CCFAE /* uk */,
+				19E85E00273E51BD000CCFAE /* he */,
 			);
 			name = InsulinKit.storyboard;
 			sourceTree = "<group>";
@@ -3084,6 +3096,7 @@
 				7D9A159623B1D1D700983049 /* pl */,
 				19E85DF3273D7D00000CCFAE /* ar */,
 				19E85DFB273D7D4F000CCFAE /* uk */,
+				19E85E04273E5216000CCFAE /* he */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -3110,6 +3123,7 @@
 				7D9BF14B2337133E005DCFD6 /* ro */,
 				19E85DF1273D7D00000CCFAE /* ar */,
 				19E85DF9273D7D4F000CCFAE /* uk */,
+				19E85E02273E51DC000CCFAE /* he */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -3136,6 +3150,7 @@
 				7D9BF14C2337133E005DCFD6 /* ro */,
 				19E85DF2273D7D00000CCFAE /* ar */,
 				19E85DFA273D7D4F000CCFAE /* uk */,
+				19E85E03273E5207000CCFAE /* he */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
