@@ -215,7 +215,7 @@
 "Tap to set" = "Trykk for å angi";
 
 /* Text directing the user to configure their first override preset */
-"Tap '+' to create a new override preset." = "Tap '+' to create a new override preset.";
+"Tap '+' to create a new override preset." = "Trykk på '+' for å opprette en ny 'Override'.";
 
 /* The text for the override target range setting */
 "Target Range" = "Målområde";
