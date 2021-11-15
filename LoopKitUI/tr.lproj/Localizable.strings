@@ -18,7 +18,7 @@
 "%@U" = "%@U";
 
 /* Title of the carb entry absorption time cell */
-"Absorption Time" = "Absorption Time";
+"Absorption Time" = "Emilim Süresi";
 
 /* The title for the override emoji activity section */
 "Activity" = "Activity";
@@ -209,7 +209,7 @@
 "Suspending" = "Suspending";
 
 /* The text for the override preset symbol setting */
-"Symbol" = "Symbol";
+"Symbol" = "Simge";
 
 /* The empty-state text for a configuration value */
 "Tap to set" = "Tap to set";
@@ -218,13 +218,13 @@
 "Tap '+' to create a new override preset." = "Tap '+' to create a new override preset.";
 
 /* The text for the override target range setting */
-"Target Range" = "Target Range";
+"Target Range" = "Hedef Aralığı";
 
 /* The title for the override selection screen */
 "Temporary Override" = "Temporary Override";
 
 /* The default placeholder string for a credential */
-"Required" = "Required";
+"Required" = "Gerekli";
 
 /* Alert body displayed absorption time greater than max (1: maximum absorption time) */
 "The maximum absorption time is %@" = "The maximum absorption time is %@";
@@ -236,20 +236,20 @@
 "Times in %1$@%2$@%3$@" = "Times in %1$@%2$@%3$@";
 
 /* The unit string for units per hour */
-"U/hour" = "U/hour";
+"U/hour" = "Ü/Sa";
 
 /* The unit string for units */
-"Units" = "Units";
+"Units" = "Ünite";
 
 /* Accessibility value for an unknown value
    The default title to use when an entry has none */
-"Unknown" = "Unknown";
+"Unknown" = "Bilinmiyor";
 
 /* Label indicating validation is occurring */
-"Verifying" = "Verifying";
+"Verifying" = "Doğrulama";
 
 /* Title of an alert containing a validation warning */
-"Warning" = "Warning";
+"Warning" = "Uyarı";
 
 /* Title for the workout override range */
-"Workout" = "Workout";
+"Workout" = "Egzersiz";
