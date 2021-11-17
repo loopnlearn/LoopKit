@@ -129,10 +129,11 @@ public protocol PumpManager: DeviceManager {
     /// - Parameters:
     ///   - units: The number of units to deliver
     ///   - startDate: The date the bolus command was originally set
+    ///   - automatic: bool is true for auto/micro bolus, false if user initiates bolus
     ///   - willRequest: A closure called just before the pump command is sent, if all preconditions are met
     ///   - completion: A closure called after the command is complete
     ///   - result: A DoseEntry or an error describing why the command failed
-    func enactBolus(units: Double, at startDate: Date, willRequest: @escaping (_ dose: DoseEntry) -> Void, completion: @escaping (_ result: PumpManagerResult<DoseEntry>) -> Void)
+    func enactBolus(units: Double, at startDate: Date, automatic: Bool, willRequest: @escaping (_ dose: DoseEntry) -> Void, completion: @escaping (_ result: PumpManagerResult<DoseEntry>) -> Void)
 
     /// Cancels the current, in progress, bolus.
     ///

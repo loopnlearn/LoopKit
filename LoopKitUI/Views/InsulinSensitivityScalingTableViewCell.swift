@@ -16,7 +16,7 @@ protocol InsulinSensitivityScalingTableViewCellDelegate: AnyObject {
 
 final class InsulinSensitivityScalingTableViewCell: UITableViewCell {
 
-    private let allScaleFactorPercentages = Array(stride(from: 10, through: 200, by: 10))
+    private let allScaleFactorPercentages = Array(stride(from: 35, through: 200, by: 5))
 
     @IBOutlet private weak var titleLabel: UILabel!
     
