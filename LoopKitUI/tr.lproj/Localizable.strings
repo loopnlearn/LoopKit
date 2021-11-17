@@ -48,10 +48,10 @@
 "Cancel" = "Vazgeç";
 
 /* The text for the override cancellation button */
-"Cancel Override" = "Cancel Override";
+"Cancel Override" = "Geçici Ayar İptal et";
 
 /* Title text for suspend resume button when temp basal canceling */
-"Canceling Temp Basal" = "Canceling Temp Basal";
+"Canceling Temp Basal" = "Geçici Bazalı İptal Et";
 
 /* The title of the view controller to create a new carb entry */
 "Add Carb Entry" = "Karbonhidrat Girdisi Ekle";
@@ -90,10 +90,10 @@
 "Correction range is the blood glucose range that you would like Loop to correct to." = "Düzeltme aralığı, Loop'un düzeltmesi gereken kan şekeri aralığıdır.";
 
 /* The text for a custom override */
-"Custom" = "Custom";
+"Custom" = "Özel";
 
 /* The title for the custom override entry screen */
-"Custom Override" = "Custom Override";
+"Custom Override" = "Özel Geçici Ayar";
 
 /* Title of the carb entry date picker cell */
 "Date" = "Tarih";
@@ -105,7 +105,7 @@
 "Duration" = "Süre";
 
 /* The title for the override editing screen */
-"Edit Override" = "Edit Override";
+"Edit Override" = "Geçici Ayarı Düzenle";
 
 /* Footer text for editing an active override (1: preset name) */
 "Editing affects only the active override. The default settings of %@ will not be affected." = "Düzenleme yalnızca etkin geçersiz kılmayı etkiler. %@ varsayılan ayarlar etkilenmeyecektir.";
@@ -160,7 +160,7 @@
 "Overall Insulin Needs" = "Toplam İnsülin Gereksinimi";
 
 /* The title text for the override presets screen */
-"Override Presets" = "Override Presets";
+"Override Presets" = "Ön Ayarları Geçersiz Kıl";
 
 /* Text directing the user to configure override presets */
 "Override presets can be set up under the 'Configuration' section of the settings screen." = "Override presets can be set up under the 'Configuration' section of the settings screen.";
@@ -184,7 +184,7 @@
 "Resuming" = "Sürdürülüyor";
 
 /* The text for the override preset name field placeholder */
-"Running" = "Running";
+"Running" = "Antrenman";
 
 /* Button text for saving glucose correction range schedule
    Button text for saving insulin sensitivity schedule */
@@ -212,7 +212,7 @@
 "Symbol" = "Simge";
 
 /* The empty-state text for a configuration value */
-"Tap to set" = "Tap to set";
+"Tap to set" = "Ayarlamak için dokun";
 
 /* Text directing the user to configure their first override preset */
 "Tap '+' to create a new override preset." = "Tap '+' to create a new override preset.";
@@ -227,13 +227,13 @@
 "Required" = "Gerekli";
 
 /* Alert body displayed absorption time greater than max (1: maximum absorption time) */
-"The maximum absorption time is %@" = "The maximum absorption time is %@";
+"The maximum absorption time is %@" = "Maksimum emilim süresi %@";
 
 /* Alert body displayed for quantity greater than max (1: maximum quantity in grams) */
-"The maximum allowed amount is %@ grams" = "The maximum allowed amount is %@ grams";
+"The maximum allowed amount is %@ grams" = "İzin verilen maksimum miktar %@ gramdır";
 
 /* The schedule table view header describing the configured time zone difference from the default time zone. The substitution parameters are: (1: time zone name)(2: +/-)(3: time interval) */
-"Times in %1$@%2$@%3$@" = "Times in %1$@%2$@%3$@";
+"Times in %1$@%2$@%3$@" = "Zaman saat dilimi %1$@%2$@%3$@";
 
 /* The unit string for units per hour */
 "U/hour" = "Ü/Sa";
