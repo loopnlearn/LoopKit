@@ -163,10 +163,10 @@
 "Override Presets" = "Ön Ayarları Geçersiz Kıl";
 
 /* Text directing the user to configure override presets */
-"Override presets can be set up under the 'Configuration' section of the settings screen." = "Override presets can be set up under the 'Configuration' section of the settings screen.";
+"Override presets can be set up under the 'Configuration' section of the settings screen." = "Geçersiz kılma ön ayarları, ayarlar ekranının 'Yapılandırma' bölümü altında ayarlanabilir.";
 
 /* The section title of glucose overrides */
-"Overrides" = "Overrides";
+"Overrides" = "Geçersiz kılmalar";
 
 /* Title for the pre-meal override range */
 "Pre-Meal" = "Yemek öncesi";
@@ -191,7 +191,7 @@
 "Save" = "Kaydet";
 
 /* The section header text for a scheduled override */
-"SCHEDULED OVERRIDE" = "SCHEDULED OVERRIDE";
+"SCHEDULED OVERRIDE" = "PROGRAMLI GEÇERSİZ KILMA";
 
 /* Section title for slow absorbing food */
 "Slow" = "Yavaş";
@@ -215,13 +215,13 @@
 "Tap to set" = "Ayarlamak için dokun";
 
 /* Text directing the user to configure their first override preset */
-"Tap '+' to create a new override preset." = "Tap '+' to create a new override preset.";
+"Tap '+' to create a new override preset." = "Yeni bir geçersiz kılma ön ayarı oluşturmak için '+' öğesine dokunun.";
 
 /* The text for the override target range setting */
 "Target Range" = "Hedef Aralığı";
 
 /* The title for the override selection screen */
-"Temporary Override" = "Temporary Override";
+"Temporary Override" = "Geçici Geçersiz Kılma";
 
 /* The default placeholder string for a credential */
 "Required" = "Gerekli";
