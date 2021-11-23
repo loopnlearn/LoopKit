@@ -665,6 +665,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		19BD786E274D8CE1005CFB6F /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		19BD786F274D8CE1005CFB6F /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/Main.strings; sourceTree = "<group>"; };
+		19BD7870274D8CE2005CFB6F /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/CarbKit.strings; sourceTree = "<group>"; };
+		19BD7871274D8CE2005CFB6F /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/InsulinKit.strings; sourceTree = "<group>"; };
+		19BD7872274D8CE2005CFB6F /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/Localizable.strings; sourceTree = "<group>"; };
+		19BD7873274D8CE2005CFB6F /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/Localizable.strings; sourceTree = "<group>"; };
+		19BD7874274D8CE2005CFB6F /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/Localizable.strings; sourceTree = "<group>"; };
+		19BD7875274D8CE2005CFB6F /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/Localizable.strings; sourceTree = "<group>"; };
 		19E85DEC273D7D00000CCFAE /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		19E85DED273D7D00000CCFAE /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Main.strings; sourceTree = "<group>"; };
 		19E85DEE273D7D00000CCFAE /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/CarbKit.strings; sourceTree = "<group>"; };
@@ -2251,6 +2259,7 @@
 				uk,
 				he,
 				tr,
+				sk,
 			);
 			mainGroup = 43D8FDC11C728FDF0073BE78;
 			productRefGroup = 43D8FDCC1C728FDF0073BE78 /* Products */;
@@ -3001,6 +3010,7 @@
 				19E85DF8273D7D4F000CCFAE /* uk */,
 				19E85E01273E51D7000CCFAE /* he */,
 				19E85E09273EA685000CCFAE /* tr */,
+				19BD7872274D8CE2005CFB6F /* sk */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -3013,6 +3023,7 @@
 				19E85DF5273D7D4F000CCFAE /* uk */,
 				19E85DFE273E51BD000CCFAE /* he */,
 				19E85E06273EA685000CCFAE /* tr */,
+				19BD786F274D8CE1005CFB6F /* sk */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -3024,6 +3035,7 @@
 				19E85DEC273D7D00000CCFAE /* ar */,
 				19E85DF4273D7D4F000CCFAE /* uk */,
 				19E85E2B273F20F2000CCFAE /* tr */,
+				19BD786E274D8CE1005CFB6F /* sk */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -3053,6 +3065,7 @@
 				19E85DF6273D7D4F000CCFAE /* uk */,
 				19E85DFF273E51BD000CCFAE /* he */,
 				19E85E07273EA685000CCFAE /* tr */,
+				19BD7870274D8CE2005CFB6F /* sk */,
 			);
 			name = CarbKit.storyboard;
 			sourceTree = "<group>";
@@ -3082,6 +3095,7 @@
 				19E85DF7273D7D4F000CCFAE /* uk */,
 				19E85E00273E51BD000CCFAE /* he */,
 				19E85E08273EA685000CCFAE /* tr */,
+				19BD7871274D8CE2005CFB6F /* sk */,
 			);
 			name = InsulinKit.storyboard;
 			sourceTree = "<group>";
@@ -3110,6 +3124,7 @@
 				19E85DFB273D7D4F000CCFAE /* uk */,
 				19E85E04273E5216000CCFAE /* he */,
 				19E85E0C273EA685000CCFAE /* tr */,
+				19BD7875274D8CE2005CFB6F /* sk */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -3138,6 +3153,7 @@
 				19E85DF9273D7D4F000CCFAE /* uk */,
 				19E85E02273E51DC000CCFAE /* he */,
 				19E85E0A273EA685000CCFAE /* tr */,
+				19BD7873274D8CE2005CFB6F /* sk */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -3166,6 +3182,7 @@
 				19E85DFA273D7D4F000CCFAE /* uk */,
 				19E85E03273E5207000CCFAE /* he */,
 				19E85E0B273EA685000CCFAE /* tr */,
+				19BD7874274D8CE2005CFB6F /* sk */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
