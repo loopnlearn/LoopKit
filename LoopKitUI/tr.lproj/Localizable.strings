@@ -3,7 +3,7 @@
 "%1$@ %2$@" = "%1$@ %2$@";
 
 /* Accessibility format string for (1: localized volume)(2: time) */
-"%1$@ units remaining at %2$@" = "%1$@ ünite %2$@'de kaldı";
+"%1$@ units remaining at %2$@" = "%2$@'de %1$@ ünite kaldı";
 
 /* The format for a glucose target range. (1: min target)(2: max target)(3: glucose unit) */
 "%1$@ – %2$@ %3$@" = "%1$@ – %2$@ %3$@";
@@ -21,7 +21,7 @@
 "Absorption Time" = "Emilim Süresi";
 
 /* The title for the override emoji activity section */
-"Activity" = "Faaliyet";
+"Activity" = "Aktivite";
 
 /* Action sheet confirmation message for pump history deletion */
 "Are you sure you want to delete all history entries?" = "Tüm geçmiş girişlerini silmek istediğinizden emin misiniz?";
@@ -184,7 +184,7 @@
 "Resuming" = "Sürdürülüyor";
 
 /* The text for the override preset name field placeholder */
-"Running" = "Antrenman";
+"Running" = "Çalışıyor";
 
 /* Button text for saving glucose correction range schedule
    Button text for saving insulin sensitivity schedule */
@@ -197,7 +197,7 @@
 "Slow" = "Yavaş";
 
 /* The text for the override start time */
-"Start Time" = "Başlangıç Saati";
+"Start Time" = "Başlangıç Zamanı";
 
 /* Title text for suspend resume button when temp basal starting */
 "Starting Temp Basal" = "Geçici Bazal Oranını Başlat";
@@ -206,7 +206,7 @@
 "Suspend Delivery" = "İletimi Askıya Al";
 
 /* Title text for button when insulin delivery is in the process of being stopped */
-"Suspending" = "İptal Etme";
+"Suspending" = "Askıya Al";
 
 /* The text for the override preset symbol setting */
 "Symbol" = "Simge";
@@ -239,7 +239,7 @@
 "U/hour" = "Ü/Sa";
 
 /* The unit string for units */
-"Units" = "Ünite";
+"Units" = "Birimler";
 
 /* Accessibility value for an unknown value
    The default title to use when an entry has none */

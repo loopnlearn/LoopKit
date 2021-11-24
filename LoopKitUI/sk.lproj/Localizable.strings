@@ -3,161 +3,161 @@
 "%1$@ %2$@" = "%1$@ %2$@";
 
 /* Accessibility format string for (1: localized volume)(2: time) */
-"%1$@ units remaining at %2$@" = "%1$@ units remaining at %2$@";
+"%1$@ units remaining at %2$@" = "%1$@ jednotiek zostávajúcich o %2$@";
 
 /* The format for a glucose target range. (1: min target)(2: max target)(3: glucose unit) */
 "%1$@ – %2$@ %3$@" = "%1$@ – %2$@ %3$@";
 
 /* The format for an insulin needs percentage. */
-"%@%% of normal insulin" = "%@%% of normal insulin";
+"%@%% of normal insulin" = "%@%% normálneho inzulínu";
 
 /* Appends a full-stop to a statement */
 "%@." = "%@.";
 
 /* Format string for reservoir volume. (1: The localized volume) */
-"%@U" = "%@U";
+"%@U" = "%@J";
 
 /* Title of the carb entry absorption time cell */
-"Absorption Time" = "Absorption Time";
+"Absorption Time" = "Čas vstrebania";
 
 /* The title for the override emoji activity section */
-"Activity" = "Activity";
+"Activity" = "Aktivita";
 
 /* Action sheet confirmation message for pump history deletion */
-"Are you sure you want to delete all history entries?" = "Are you sure you want to delete all history entries?";
+"Are you sure you want to delete all history entries?" = "Naozaj chcete vymazať celú históriu podaní?";
 
 /* Action sheet confirmation message for reservoir deletion */
-"Are you sure you want to delete all reservoir values?" = "Are you sure you want to delete all reservoir values?";
+"Are you sure you want to delete all reservoir values?" = "Naozaj chcete vymazať všetky údaje rezervoára?";
 
 /* The title of the button to add the credentials for a service */
-"Add Account" = "Add Account";
+"Add Account" = "Pridať účet";
 
 /* The title of the button to remove the credentials for a service */
-"Delete Account" = "Delete Account";
+"Delete Account" = "Odstrániť účet";
 
 /* Describes a percentage decrease in overall insulin needs */
-"Basal, bolus, and correction insulin dose amounts are decreased by %@%%." = "Basal, bolus, and correction insulin dose amounts are decreased by %@%%.";
+"Basal, bolus, and correction insulin dose amounts are decreased by %@%%." = "Bazál, Bolus, a korekčná dávka inzulínu sú znížené o %@%%.";
 
 /* Describes a percentage increase in overall insulin needs */
-"Basal, bolus, and correction insulin dose amounts are increased by %@%%." = "Basal, bolus, and correction insulin dose amounts are increased by %@%%.";
+"Basal, bolus, and correction insulin dose amounts are increased by %@%%." = "Bazál, Bolus, a korekčná dávka inzulínu sú navýšené o %@%%.";
 
 /* Describes a lack of change in overall insulin needs */
-"Basal, bolus, and correction insulin dose amounts are unaffected." = "Basal, bolus, and correction insulin dose amounts are unaffected.";
+"Basal, bolus, and correction insulin dose amounts are unaffected." = "Bazál, Bolus, a korekčná dávka inzulínu nie sú ovplyvnené.";
 
 /* The title of the cancel action in an action sheet */
-"Cancel" = "Cancel";
+"Cancel" = "Zrušiť";
 
 /* The text for the override cancellation button */
 "Cancel Override" = "Cancel Override";
 
 /* Title text for suspend resume button when temp basal canceling */
-"Canceling Temp Basal" = "Canceling Temp Basal";
+"Canceling Temp Basal" = "Ruší sa Dočasný Bazál";
 
 /* The title of the view controller to create a new carb entry */
-"Add Carb Entry" = "Add Carb Entry";
+"Add Carb Entry" = "Pridaj Sach";
 
 /* The title of the view controller to edit an existing carb entry */
-"Edit Carb Entry" = "Edit Carb Entry";
+"Edit Carb Entry" = "Uprav Sach";
 
 /* Footer text for customizing an override from a preset (1: preset name) */
-"Changes will only apply this time you enable the override. The default settings of %@ will not be affected." = "Changes will only apply this time you enable the override. The default settings of %@ will not be affected.";
+"Changes will only apply this time you enable the override. The default settings of %@ will not be affected." = "Zmeny budú uplatnené iba počas aktívneho override. Prednastavené nastavenia %@ nebudú ovplyvnené.";
 
 /* Carb entry section footer text explaining absorption time */
-"Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." = "Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact.";
+"Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." = "Zvoľte dlhší čas vstrebania pre väčšie jedlá, alebo jedlá s obsahom bielkovín a tukov. Toto je iba návod pre algoritmus a nemusí byť presný.";
 
 /* The format string describing the date of a COB value. The first format argument is the localized date. */
-"com.loudnate.CarbKit.COBDateLabel" = "at %1$@";
+"com.loudnate.CarbKit.COBDateLabel" = "dňa %1$@";
 
 /* The format string describing the starting date of a total value. The first format argument is the localized date. */
-"com.loudnate.CarbKit.totalDateLabel" = "since %1$@";
+"com.loudnate.CarbKit.totalDateLabel" = "od %1$@";
 
 /* The format string describing the date of an IOB value. The first format argument is the localized date. */
-"com.loudnate.InsulinKit.IOBDateLabel" = "at %1$@";
+"com.loudnate.InsulinKit.IOBDateLabel" = "dňa %1$@";
 
 /* The format string describing the starting date of a total value. The first format argument is the localized date. */
-"com.loudnate.InsulinKit.totalDateLabel" = "since %1$@";
+"com.loudnate.InsulinKit.totalDateLabel" = "od %1$@";
 
 /* The title of the action used to dismiss an error alert */
 "com.loudnate.LoopKit.errorAlertActionTitle" = "OK";
 
 /* The title for the override emoji condition section */
-"Condition" = "Condition";
+"Condition" = "Stav";
 
 /* Title of the setup button to continue */
-"Continue" = "Continue";
+"Continue" = "Pokračovať";
 
 /* The section footer of correction range schedule */
-"Correction range is the blood glucose range that you would like Loop to correct to." = "Correction range is the blood glucose range that you would like Loop to correct to.";
+"Correction range is the blood glucose range that you would like Loop to correct to." = "Korekčný rozsah je hranica krvného cukru ku ktorej chcete aby Slučka krvný cukor korigovala.";
 
 /* The text for a custom override */
-"Custom" = "Custom";
+"Custom" = "Vlastné";
 
 /* The title for the custom override entry screen */
-"Custom Override" = "Custom Override";
+"Custom Override" = "Vlastné Nastavenie";
 
 /* Title of the carb entry date picker cell */
-"Date" = "Date";
+"Date" = "Dátum";
 
 /* Button title to delete all objects */
-"Delete All" = "Delete All";
+"Delete All" = "Vymazať všetko";
 
 /* The text for the override duration setting */
-"Duration" = "Duration";
+"Duration" = "Trvanie";
 
 /* The title for the override editing screen */
-"Edit Override" = "Edit Override";
+"Edit Override" = "Uprav Override";
 
 /* Footer text for editing an active override (1: preset name) */
-"Editing affects only the active override. The default settings of %@ will not be affected." = "Editing affects only the active override. The default settings of %@ will not be affected.";
+"Editing affects only the active override. The default settings of %@ will not be affected." = "Upravenie vplýva iba na aktívny override. Prednastavené hodnoty %@ nebudú ovplyvnené.";
 
 /* The text for the indefinite override duration setting */
-"Enable Indefinitely" = "Enable Indefinitely";
+"Enable Indefinitely" = "Zapnúť Neobmedzene";
 
 /* The detail text describing an enabled setting */
-"Enabled" = "Enabled";
+"Enabled" = "Zapnuté";
 
 /* The placeholder text instructing users how to enter a maximum bolus */
-"Enter a number of units" = "Enter a number of units";
+"Enter a number of units" = "Zadajte počet jednotiek";
 
 /* The placeholder text instructing users how to enter a maximum basal rate */
-"Enter a rate in units per hour" = "Enter a rate in units per hour";
+"Enter a rate in units per hour" = "Zadajte hodnotu v jednotkách za hodinu";
 
 /* Section title for fast absorbing food */
-"Fast" = "Fast";
+"Fast" = "Rýchly";
 
 /* The description shown on the insulin sensitivity schedule interface. */
-"Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose." = "Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose.";
+"Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose." = "Inzulínová citlivosť opisuje ako by mal váš krvný cukor reagovať na 1 Jednotku dávky inzulínu. Menšie hodnoty znamenajú že bude podané väčsie množstvo inzulínu keď ste nad rozsahom. Hodnoty ktoré sú príliš nízke môžu spôsobiť nebezpečné zníženie hladiny krvného cukru.";
 
 /* Placeholder for maximum value in glucose range */
 "max" = "max";
 
 /* The title text for the maximum basal rate value */
-"Maximum Basal Rate" = "Maximum Basal Rate";
+"Maximum Basal Rate" = "Maximálna Dávka Bazálu";
 
 /* The title text for the maximum bolus value */
-"Maximum Bolus" = "Maximum Bolus";
+"Maximum Bolus" = "Maximálny Bolus";
 
 /* Section title for medium absorbing food */
-"Medium" = "Medium";
+"Medium" = "Stredný";
 
 /* Placeholder for minimum value in glucose range */
 "min" = "min";
 
 /* Alert action title to open error help */
-"More Info" = "More Info";
+"More Info" = "Viac Info";
 
 /* The text for the override preset name setting */
-"Name" = "Name";
+"Name" = "Názov";
 
 /* The title for the new override preset entry screen */
-"New Preset" = "New Preset";
+"New Preset" = "Nové Nastavenie";
 
 /* Section title for no-carb food
    The title for override emoji miscellaneous section */
-"Other" = "Other";
+"Other" = "Iné";
 
 /* The title text for the insulin sensitivity scaling setting */
-"Overall Insulin Needs" = "Overall Insulin Needs";
+"Overall Insulin Needs" = "Celková Potreba Inzulínu";
 
 /* The title text for the override presets screen */
 "Override Presets" = "Override Presets";
