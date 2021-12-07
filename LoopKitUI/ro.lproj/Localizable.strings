@@ -1,21 +1,21 @@
-/* Appends a full-stop to a statement */
-"%@." = "%@.";
-
-/* The format for an insulin needs percentage. */
-"%@%% of normal insulin" = "%@%% din insulină normală";
-
-/* Format string for reservoir volume. (1: The localized volume) */
-"%@U" = "%@U";
-
-/* The format for a glucose target range. (1: min target)(2: max target)(3: glucose unit) */
-"%1$@ – %2$@ %3$@" = "%1$@ – %2$@ %3$@";
-
 /* The format for an override preset cell. (1: symbol)(2: name)
    The format for an override symbol and name (1: symbol)(2: name) */
 "%1$@ %2$@" = "%1$@ %2$@";
 
 /* Accessibility format string for (1: localized volume)(2: time) */
 "%1$@ units remaining at %2$@" = "%1$@ unități rămase la %2$@";
+
+/* The format for a glucose target range. (1: min target)(2: max target)(3: glucose unit) */
+"%1$@ – %2$@ %3$@" = "%1$@ – %2$@ %3$@";
+
+/* The format for an insulin needs percentage. */
+"%@%% of normal insulin" = "%@%% din insulină normală";
+
+/* Appends a full-stop to a statement */
+"%@." = "%@.";
+
+/* Format string for reservoir volume. (1: The localized volume) */
+"%@U" = "%@U";
 
 /* Title of the carb entry absorption time cell */
 "Absorption Time" = "Timp de absorbție";
@@ -214,6 +214,9 @@
 /* The empty-state text for a configuration value */
 "Tap to set" = "Apăsați pentru setare";
 
+/* Text directing the user to configure their first override preset */
+"Tap '+' to create a new override preset." = "Tap '+' to create a new override preset.";
+
 /* The text for the override target range setting */
 "Target Range" = "Interval țintă";
 
@@ -250,4 +253,3 @@
 
 /* Title for the workout override range */
 "Workout" = "Activitate sportivă";
-
