@@ -126,7 +126,7 @@
 "Fast" = "Rask";
 
 /* The description shown on the insulin sensitivity schedule interface. */
-"Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose." = "Insulinfølsomhet beskriver hvordan blodsukkeret responderer på 1 enhet insulin. Mindre verdier betyr at mer insulin vil bli gitt når man er over målområdet. Verdier som er for små kan føre til farlig lavt blodsukker. ";
+"Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose." = "Insulinfølsomhet beskriver hvordan blodsukkeret bør respondere på 1 enhet insulin. Mindre verdier betyr at mer insulin vil bli gitt, når man er over målområdet. Verdier som er for små kan føre til farlig lavt blodsukker.";
 
 /* Placeholder for maximum value in glucose range */
 "max" = "maks";

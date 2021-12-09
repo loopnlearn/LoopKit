@@ -38,7 +38,7 @@
 "Falling very fast" = "Faller veldig raskt";
 
 /* Glucose trend flat */
-"Flat" = "Flatt";
+"Flat" = "Flat";
 
 /* The short unit display string for grams per U */
 "g/U" = "g/E";
@@ -74,10 +74,10 @@
 "Rising" = "Stiger";
 
 /* Glucose trend up-up */
-"Rising fast" = "Stiger fort";
+"Rising fast" = "Stiger raskt";
 
 /* Glucose trend up-up-up */
-"Rising very fast" = "Stiger veldig fort";
+"Rising very fast" = "Stiger veldig raskt";
 
 /* The short unit display string for international units of insulin */
 "U" = "E";
