@@ -86,13 +86,13 @@
 "U/hr" = "Ед/ч";
 
 /* The long unit display string for a singular international unit of insulin */
-"Unit" = "Unit";
+"Unit" = "Единица измерения";
 
 /* The long unit display string for a singular international unit of insulin per hour */
-"Unit/hour" = "Unit/hour";
+"Unit/hour" = "Ед/час";
 
 /* The long unit display string for international units of insulin */
 "Units" = "Единицы";
 
 /* The long unit display string for international units of insulin per hour */
-"Units/hour" = "Units/hour";
+"Units/hour" = "Ед/час";
