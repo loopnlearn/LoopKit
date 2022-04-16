@@ -236,7 +236,7 @@
 "Times in %1$@%2$@%3$@" = "Tid i %1$@%2$@%3$@";
 
 /* The unit string for units per hour */
-"U/hour" = "E/timme";
+"U/hour" = "IE/timme";
 
 /* The unit string for units */
 "Units" = "Eheter";
