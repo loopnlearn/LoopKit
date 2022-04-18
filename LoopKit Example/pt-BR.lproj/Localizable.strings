@@ -5,7 +5,7 @@
 "Carb Ratios" = "Taxas de Carbs";
 
 /* The title for the cell navigating to the carbs screen */
-"Carbs" = "Carbs";
+"Carbs" = "Carboidratos";
 
 /* The title text for the glucose correction range schedule */
 "Correction Range" = "Faixa de Correção";
@@ -30,7 +30,7 @@
 "Reservoir" = "Reservatório";
 
 /* Title for the cell resetting the data manager */
-"Reset" = "Restabelecer";
+"Reset" = "Redefinir";
 
 /* Title of button to sync basal profile from pump */
 "Sync With Pump" = "Sincronizar com a Bomba";
