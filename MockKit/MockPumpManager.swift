@@ -281,7 +281,7 @@ public final class MockPumpManager: TestingPumpManager {
         }
     }
 
-    public func enactTempBasal(unitsPerHour: Double, for duration: TimeInterval, completion: @escaping (PumpManagerResult<DoseEntry>) -> Void) {
+    public func enactTempBasal(unitsPerHour: Double, for duration: TimeInterval, automatic: Bool, completion: @escaping (PumpManagerResult<DoseEntry>) -> Void) {
         logDeviceCommunication("enactTempBasal(\(unitsPerHour), \(duration))")
 
         if state.tempBasalEnactmentShouldError {

@@ -147,9 +147,10 @@ public protocol PumpManager: DeviceManager {
     /// - Parameters:
     ///   - unitsPerHour: The temporary basal rate to set
     ///   - duration: The duration of the temporary basal rate.
+    ///   - automatic: bool is false for a manually enabled temp basal, true for Loop enacted or suggested temp basal
     ///   - completion: A closure called after the command is complete
     ///   - result: A DoseEntry or an error describing why the command failed
-    func enactTempBasal(unitsPerHour: Double, for duration: TimeInterval, completion: @escaping (_ result: PumpManagerResult<DoseEntry>) -> Void)
+    func enactTempBasal(unitsPerHour: Double, for duration: TimeInterval, automatic: Bool, completion: @escaping (_ result: PumpManagerResult<DoseEntry>) -> Void)
 
     /// Send a command to the pump to suspend delivery
     ///
