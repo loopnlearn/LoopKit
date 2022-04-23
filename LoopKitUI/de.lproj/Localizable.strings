@@ -78,7 +78,7 @@
 "com.loudnate.InsulinKit.totalDateLabel" = "seit %1$@";
 
 /* The title of the action used to dismiss an error alert */
-"com.loudnate.LoopKit.errorAlertActionTitle" = "OK";
+"com.loudnate.LoopKit.errorAlertActionTitle" = "Okay";
 
 /* The title for the override emoji condition section */
 "Condition" = "Bedingung";

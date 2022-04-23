@@ -1,14 +1,14 @@
 /* The title text for the basal rate schedule */
-"Basal Rates" = "Basal Rates";
+"Basal Rates" = "الضخ المستمر";
 
 /* The title of the carb ratios schedule screen */
-"Carb Ratios" = "Carb Ratios";
+"Carb Ratios" = "معاملات الكارب";
 
 /* The title for the cell navigating to the carbs screen */
 "Carbs" = "Carbs";
 
 /* The title text for the glucose correction range schedule */
-"Correction Range" = "Correction Range";
+"Correction Range" = "نطاق التصحيح";
 
 /* The title for the cell displaying diagnostic data */
 "Diagnostic" = "Diagnostic";
@@ -27,7 +27,7 @@
 "Pump ID" = "Pump ID";
 
 /* The title for the cell navigating to the reservoir screen */
-"Reservoir" = "Reservoir";
+"Reservoir" = "الخزان";
 
 /* Title for the cell resetting the data manager */
 "Reset" = "Reset";

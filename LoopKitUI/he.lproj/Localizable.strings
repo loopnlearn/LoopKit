@@ -18,7 +18,7 @@
 "%@U" = "%@U";
 
 /* Title of the carb entry absorption time cell */
-"Absorption Time" = "Absorption Time";
+"Absorption Time" = "זמן ספיגה";
 
 /* The title for the override emoji activity section */
 "Activity" = "Activity";
@@ -45,7 +45,7 @@
 "Basal, bolus, and correction insulin dose amounts are unaffected." = "Basal, bolus, and correction insulin dose amounts are unaffected.";
 
 /* The title of the cancel action in an action sheet */
-"Cancel" = "Cancel";
+"Cancel" = "ביטול";
 
 /* The text for the override cancellation button */
 "Cancel Override" = "Cancel Override";
@@ -54,16 +54,16 @@
 "Canceling Temp Basal" = "Canceling Temp Basal";
 
 /* The title of the view controller to create a new carb entry */
-"Add Carb Entry" = "Add Carb Entry";
+"Add Carb Entry" = "הוסף ערך פחמימות";
 
 /* The title of the view controller to edit an existing carb entry */
-"Edit Carb Entry" = "Edit Carb Entry";
+"Edit Carb Entry" = "ערוך ערך פחמימות";
 
 /* Footer text for customizing an override from a preset (1: preset name) */
 "Changes will only apply this time you enable the override. The default settings of %@ will not be affected." = "Changes will only apply this time you enable the override. The default settings of %@ will not be affected.";
 
 /* Carb entry section footer text explaining absorption time */
-"Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." = "Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact.";
+"Choose a longer absorption time for larger meals, or those containing fats and proteins. This is only guidance to the algorithm and need not be exact." = "בחר זמן ספיגה ממושך יותר עבור ארוחות גדולות, או כאלה שמכילות שומנים וחלבונים. זהו קו מנחה לאלגוריתם בלבד ולא צריך להיות מדויק.";
 
 /* The format string describing the date of a COB value. The first format argument is the localized date. */
 "com.loudnate.CarbKit.COBDateLabel" = "at %1$@";
@@ -78,7 +78,7 @@
 "com.loudnate.InsulinKit.totalDateLabel" = "since %1$@";
 
 /* The title of the action used to dismiss an error alert */
-"com.loudnate.LoopKit.errorAlertActionTitle" = "OK";
+"com.loudnate.LoopKit.errorAlertActionTitle" = "אישור";
 
 /* The title for the override emoji condition section */
 "Condition" = "Condition";
@@ -96,13 +96,13 @@
 "Custom Override" = "Custom Override";
 
 /* Title of the carb entry date picker cell */
-"Date" = "Date";
+"Date" = "תאריך";
 
 /* Button title to delete all objects */
 "Delete All" = "Delete All";
 
 /* The text for the override duration setting */
-"Duration" = "Duration";
+"Duration" = "משך זמן";
 
 /* The title for the override editing screen */
 "Edit Override" = "Edit Override";
@@ -252,4 +252,4 @@
 "Warning" = "Warning";
 
 /* Title for the workout override range */
-"Workout" = "Workout";
+"Workout" = "אימון";

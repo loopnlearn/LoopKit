@@ -45,7 +45,7 @@
 "Basal, bolus, and correction insulin dose amounts are unaffected." = "Basal, bolus, and correction insulin dose amounts are unaffected.";
 
 /* The title of the cancel action in an action sheet */
-"Cancel" = "Cancel";
+"Cancel" = "إلغاء";
 
 /* The text for the override cancellation button */
 "Cancel Override" = "Cancel Override";
@@ -78,7 +78,7 @@
 "com.loudnate.InsulinKit.totalDateLabel" = "since %1$@";
 
 /* The title of the action used to dismiss an error alert */
-"com.loudnate.LoopKit.errorAlertActionTitle" = "OK";
+"com.loudnate.LoopKit.errorAlertActionTitle" = "موافق";
 
 /* The title for the override emoji condition section */
 "Condition" = "Condition";
@@ -93,7 +93,7 @@
 "Custom" = "Custom";
 
 /* The title for the custom override entry screen */
-"Custom Override" = "Custom Override";
+"Custom Override" = "تجاوز مخصص";
 
 /* Title of the carb entry date picker cell */
 "Date" = "Date";
@@ -160,7 +160,7 @@
 "Overall Insulin Needs" = "Overall Insulin Needs";
 
 /* The title text for the override presets screen */
-"Override Presets" = "Override Presets";
+"Override Presets" = "تخطي الإعدادات المسبقة";
 
 /* Text directing the user to configure override presets */
 "Override presets can be set up under the 'Configuration' section of the settings screen." = "Override presets can be set up under the 'Configuration' section of the settings screen.";
@@ -252,4 +252,4 @@
 "Warning" = "Warning";
 
 /* Title for the workout override range */
-"Workout" = "Workout";
+"Workout" = "التمارين";

@@ -1,8 +1,8 @@
 /* The title text for the basal rate schedule */
-"Basal Rates" = "Basal Rates";
+"Basal Rates" = "תפריט בזאלי";
 
 /* The title of the carb ratios schedule screen */
-"Carb Ratios" = "Carb Ratios";
+"Carb Ratios" = "יחס פחמימות";
 
 /* The title for the cell navigating to the carbs screen */
 "Carbs" = "Carbs";
@@ -27,7 +27,7 @@
 "Pump ID" = "Pump ID";
 
 /* The title for the cell navigating to the reservoir screen */
-"Reservoir" = "Reservoir";
+"Reservoir" = "מיכל";
 
 /* Title for the cell resetting the data manager */
 "Reset" = "Reset";

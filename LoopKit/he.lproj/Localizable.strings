@@ -80,10 +80,10 @@
 "Rising very fast" = "Rising very fast";
 
 /* The short unit display string for international units of insulin */
-"U" = "U";
+"U" = "יח'";
 
 /* The short unit display string for international units of insulin per hour */
-"U/hr" = "U/hr";
+"U/hr" = "יח/שעה";
 
 /* The long unit display string for a singular international unit of insulin */
 "Unit" = "Unit";
