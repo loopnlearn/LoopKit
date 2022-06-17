@@ -2,7 +2,7 @@
 "%1$@ U bolus failed" = "%1$@ ед Болюс не состоялся ";
 
 /* Describes an uncertain bolus failure (1: size of the bolus in units) */
-"%1$@ U bolus may not have succeeded" = "%1$@ ед. возможная неудача подачи болюса";
+"%1$@ U bolus may not have succeeded" = "Возможно, случилась неудача подачи болюса в %1$@ ед";
 
 /* The error description describing when Health sharing was denied */
 "Authorization Denied" = "Авторизация не состоялась";

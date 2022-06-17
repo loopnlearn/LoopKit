@@ -15,7 +15,7 @@
 "%@." = "%@.";
 
 /* Format string for reservoir volume. (1: The localized volume) */
-"%@U" = "%@U";
+"%@U" = "%@单位";
 
 /* Title of the carb entry absorption time cell */
 "Absorption Time" = "吸收时间";
@@ -215,7 +215,7 @@
 "Tap to set" = "点击设置";
 
 /* Text directing the user to configure their first override preset */
-"Tap '+' to create a new override preset." = "Tap '+' to create a new override preset.";
+"Tap '+' to create a new override preset." = "点击 '+' 创建一个新配置。";
 
 /* The text for the override target range setting */
 "Target Range" = "目标范围";

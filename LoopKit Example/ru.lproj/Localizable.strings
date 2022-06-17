@@ -11,7 +11,7 @@
 "Correction Range" = "Диапазон коррекции";
 
 /* The title for the cell displaying diagnostic data */
-"Diagnostic" = "Диагностически";
+"Diagnostic" = "Диагностика";
 
 /* The placeholder text instructing users how to enter a pump ID */
 "Enter the 6-digit pump ID" = "Введите ID помпы (6 цифр)";
@@ -21,7 +21,7 @@
 
 /* The title of the insulin sensitivity schedule screen
    The title text for the insulin sensitivity schedule */
-"Insulin Sensitivity" = "Чувствительность";
+"Insulin Sensitivity" = "Чувствительность к инсулину";
 
 /* The title text for the pump ID */
 "Pump ID" = "ID помпы";
@@ -36,4 +36,4 @@
 "Sync With Pump" = "Синхронизировать с помпой";
 
 /* Instructions on where to find the pump ID on a Minimed pump */
-"The pump ID can be found printed on the back, or near the bottom of the STATUS/Esc screen. It is the strictly numerical portion of the serial number (shown as SN or S/N)." = "Регион помпы находится на этикетке сзади как часть номера модели (REF), например, MMT-551NAB или MMT-515LWWS. Если номер модели содержит \"NA\" или \"CA\", то регион - Северная Америка. Если это \"WW\", тогда регион - остальной мир.";
+"The pump ID can be found printed on the back, or near the bottom of the STATUS/Esc screen. It is the strictly numerical portion of the serial number (shown as SN or S/N)." = "ID помпы находится на этикетке сзади помпы, либо внизу экрана STATUS/Esc. Это именно цифровая часть серийного номера (указанного как SN или S/N).";
