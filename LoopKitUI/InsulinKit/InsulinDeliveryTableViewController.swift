@@ -230,6 +230,15 @@ public final class InsulinDeliveryTableViewController: UITableViewController {
         return formatter
     }()
 
+    private lazy var timeDateFormatter: DateFormatter = {
+        let formatter = DateFormatter()
+
+        formatter.dateStyle = .short
+        formatter.timeStyle = .short
+
+        return formatter
+    }()
+
     private lazy var timeFormatter: DateFormatter = {
         let formatter = DateFormatter()
 
@@ -360,7 +369,7 @@ public final class InsulinDeliveryTableViewController: UITableViewController {
             case .reservoir(let values):
                 let entry = values[indexPath.row]
                 let volume = NumberFormatter.localizedString(from: NSNumber(value: entry.unitVolume), number: .decimal)
-                let time = timeFormatter.string(from: entry.startDate)
+                let time = timeDateFormatter.string(from: entry.startDate)
 
                 cell.textLabel?.text = "\(volume) U"
                 cell.detailTextLabel?.text = time

@@ -28,18 +28,23 @@ extension SetBolusError: LocalizedError {
         return String(format: format, NumberFormatter.localizedString(from: NSNumber(value: units), number: .decimal))
     }
 
+    // returns the localized description for the failure reason
     public var failureReason: String? {
         switch self {
         case .certain(let error):
-            return error.failureReason
+            return error.localizedDescription
         case .uncertain(let error):
-            return error.failureReason
+            return error.localizedDescription
         }
     }
 
+    // returns an approproate recovery suggestion based on the certainty and the underlying recovery suggestion
     public var recoverySuggestion: String? {
         switch self {
-        case .certain:
+        case .certain(let error):
+            if let suggestion = error.recoverySuggestion {
+                return suggestion + LocalizedString(" and try again", comment: "Recovery instruction addition to rety for certain bolus failure")
+            }
             return LocalizedString("It is safe to retry", comment: "Recovery instruction for a certain bolus failure")
         case .uncertain:
             return LocalizedString("Check your pump before retrying", comment: "Recovery instruction for an uncertain bolus failure")
