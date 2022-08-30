@@ -126,7 +126,7 @@
 "Fast" = "Snel";
 
 /* The description shown on the insulin sensitivity schedule interface. */
-"Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose." = "Insuline gevoeligheid beschrijft hoe de bloed glucose reageert op 1 eenheid insuline. Lagere waarde betekent dat meer insuline gegeven wordt wanneer je boven doelbereik bent. Een te laag ingestelde insuline gevoeligheid kan leiden tot gevaarlijk lage bloed glucose waardes.";
+"Insulin sensitivity describes how your blood glucose should respond to a 1 Unit dose of insulin. Smaller values mean more insulin will be given when above target. Values that are too small can cause dangerously low blood glucose." = "Insuline gevoeligheid beschrijft hoe de bloedglucose reageert op 1 eenheid insuline. Lagere waarde betekent dat meer insuline gegeven wordt wanneer je boven doelbereik bent. Een te laag ingestelde insuline gevoeligheid kan leiden tot gevaarlijk lage bloed glucose waardes.";
 
 /* Placeholder for maximum value in glucose range */
 "max" = "max";
@@ -215,7 +215,7 @@
 "Tap to set" = "Instellen…";
 
 /* Text directing the user to configure their first override preset */
-"Tap '+' to create a new override preset." = "Tap '+' to create a new override preset.";
+"Tap '+' to create a new override preset." = "Tik op '+' om een nieuwe tijdelijk programma te maken.";
 
 /* The text for the override target range setting */
 "Target Range" = "Doel bereik";
@@ -233,7 +233,7 @@
 "The maximum allowed amount is %@ grams" = "De maximum toegestane waarde is %@ gram";
 
 /* The schedule table view header describing the configured time zone difference from the default time zone. The substitution parameters are: (1: time zone name)(2: +/-)(3: time interval) */
-"Times in %1$@%2$@%3$@" = "keer in %1$@%2$@%3$@";
+"Times in %1$@%2$@%3$@" = "Aantal keren in %1$@%2$@%3$@";
 
 /* The unit string for units per hour */
 "U/hour" = "E/uur";
@@ -246,7 +246,7 @@
 "Unknown" = "Onbekend";
 
 /* Label indicating validation is occurring */
-"Verifying" = "Verifiëren";
+"Verifying" = "Controleren";
 
 /* Title of an alert containing a validation warning */
 "Warning" = "Waarschuwing";

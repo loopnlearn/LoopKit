@@ -1,11 +1,11 @@
 /* Class = "UILabel"; text = "Authorize access to Health to continue"; ObjectID = "7xi-Om-Y53"; */
-"7xi-Om-Y53.text" = "Geef toestemming tot Gezondheid om verder te gaan";
+"7xi-Om-Y53.text" = "Geef toestemming aan de Gezondheidsapp om verder te gaan";
 
 /* Class = "UIButton"; normalTitle = "Authorize"; ObjectID = "8sx-XB-DRV"; */
 "8sx-XB-DRV.normalTitle" = "Geef toestemming";
 
 /* Class = "UILabel"; text = "g"; ObjectID = "D2S-2h-yH6"; */
-"D2S-2h-yH6.text" = "g";
+"D2S-2h-yH6.text" = "gr";
 
 /* Class = "UILabel"; text = "Amount Consumed"; ObjectID = "K0S-my-3qL"; */
 "K0S-my-3qL.text" = "Hoeveelheid geconsumeerd";
@@ -47,7 +47,7 @@
 "m95-PG-bTq.text" = "Detail";
 
 /* Class = "UILabel"; text = "HealthKit is not available on this device"; ObjectID = "nXh-BM-MuC"; */
-"nXh-BM-MuC.text" = "Gezondheid is niet beschikbaar op dit apparaat";
+"nXh-BM-MuC.text" = "Gezondheidsapp is niet beschikbaar op dit apparaat";
 
 /* Class = "UILabel"; text = "g Total"; ObjectID = "pHI-f4-pJp"; */
 "pHI-f4-pJp.text" = "gr totaal";

@@ -20,7 +20,7 @@
 "NRZ-dT-iqj.text" = "Gıda Türü";
 
 /* Class = "UILabel"; text = "g COB"; ObjectID = "QZb-e1-xwb"; */
-"QZb-e1-xwb.text" = "gr COB Aktif Karbonhidrat";
+"QZb-e1-xwb.text" = "gr AKRB Aktif Karbonhidrat";
 
 /* Class = "UINavigationItem"; title = "Carbohydrates"; ObjectID = "Qgq-n1-hm4"; */
 "Qgq-n1-hm4.title" = "Karbonhidratlar";

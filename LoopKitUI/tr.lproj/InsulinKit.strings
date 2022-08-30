@@ -17,7 +17,7 @@
 "TyZ-xm-mVN.segmentTitles[1]" = "Etkinlik Geçmişi";
 
 /* Class = "UILabel"; text = "U IOB"; ObjectID = "dZi-Ta-IHm"; */
-"dZi-Ta-IHm.text" = "Ü IOB(Aktif insülin)";
+"dZi-Ta-IHm.text" = "Ü AİNS(Aktif insülin)";
 
 /* Class = "UILabel"; text = "No pump configured"; ObjectID = "jSc-64-2tZ"; */
 "jSc-64-2tZ.text" = "Yapılandırılan pompa yok";

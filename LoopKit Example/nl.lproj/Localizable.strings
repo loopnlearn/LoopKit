@@ -30,10 +30,10 @@
 "Reservoir" = "Reservoir";
 
 /* Title for the cell resetting the data manager */
-"Reset" = "Reset";
+"Reset" = "Herstel";
 
 /* Title of button to sync basal profile from pump */
 "Sync With Pump" = "Synchroniseer met pomp";
 
 /* Instructions on where to find the pump ID on a Minimed pump */
-"The pump ID can be found printed on the back, or near the bottom of the STATUS/Esc screen. It is the strictly numerical portion of the serial number (shown as SN or S/N)." = "The pump ID can be found printed on the back, or near the bottom of the STATUS/Esc screen. It is the strictly numerical portion of the serial number (shown as SN or S/N).";
+"The pump ID can be found printed on the back, or near the bottom of the STATUS/Esc screen. It is the strictly numerical portion of the serial number (shown as SN or S/N)." = "De pomp-ID kan worden gevonden op de achterkant van je pomp of bij STATUS/Esc-scherm. Gebruik bij het invoeren alleen het numerieke deel van het serienummer (weergegeven als SN of S/N).";
