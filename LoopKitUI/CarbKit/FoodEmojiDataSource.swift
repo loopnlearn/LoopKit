@@ -17,7 +17,7 @@ private class FoodEmojiDataSource: EmojiDataSource {
             "🍇", "🍈", "🍉", "🍊", "🍋", "🍌", "🍍",
             "🍎", "🍏", "🍐", "🍑", "🍒", "🍓", "🥝",
             "🌽", "🍿", "🍘", "🍡", "🍦", "🍧", "🎂", "🥠",
-            "☕️",
+            "☕️", "🍫", "🍨", "🍩", "🧃",
         ]
 
         return fast
@@ -30,8 +30,8 @@ private class FoodEmojiDataSource: EmojiDataSource {
             "🥪", "🥫", "🥟", "🥡", "🍢", "🍣",
             "🍅", "🥔", "🥕", "🌶", "🥒", "🥗", "🍄", "🥦",
             "🍆", "🥥", "🍞", "🥐", "🥖", "🥨", "🥞", "🍙", "🍚",
-            "🍼", "🥛", "🍮", "🥧",
-            "🍨", "🍩", "🍪", "🍰", "🍫",
+            "🍼", "🥛", "🍮", "🥧", "🥯", "🧇",
+            "🍪", "🍰", "🦀", "🧉",
        ]
 
         return medium
@@ -49,7 +49,7 @@ private class FoodEmojiDataSource: EmojiDataSource {
     private static let other: [String] = {
         var other = [
             "🍶", "🍾", "🍷", "🍸", "🍺", "🍻", "🥂", "🥃",
-            "🍹", "🥣", "🥤", "🥢", "🍵",
+            "🍹", "🥣", "🥤", "🥢", "🍵", "🧋",
             "1️⃣", "2️⃣", "3️⃣", "4️⃣", "5️⃣",
             "6️⃣", "7️⃣", "8️⃣", "9️⃣", "🔟"
         ]
@@ -64,12 +64,12 @@ private class FoodEmojiDataSource: EmojiDataSource {
             EmojiSection(
                 title: LocalizedString("Fast", comment: "Section title for fast absorbing food"),
                 items: type(of: self).fast,
-                indexSymbol: " 🍭 "
+                indexSymbol: " 🍫 "
             ),
             EmojiSection(
                 title: LocalizedString("Medium", comment: "Section title for medium absorbing food"),
                 items: type(of: self).medium,
-                indexSymbol: "🌮"
+                indexSymbol: "🥪"
             ),
             EmojiSection(
                 title: LocalizedString("Slow", comment: "Section title for slow absorbing food"),
